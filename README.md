@@ -1,0 +1,2 @@
+# udacity-final-project
+Gamers network. This is my solution of udacity final project of Computer Science program. This project takes in string input data about users. Creates a data structure, the dictionary of lists, and it's individual tasks are focused on work with this data structures: crawling/looping, logical conditions and adjustment of the data. Individual tasks use intra-project data transfer to build required record set.
